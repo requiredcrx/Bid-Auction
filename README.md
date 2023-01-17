@@ -40,7 +40,7 @@ This program does not have any dependencies outside of the Python standard libra
 This program is part of learning projects. Contributions and suggestions for improvements are welcome. If you would like to contribute to the development of this program, please fork the repository and submit a pull request with your proposed changes.
 
 ## License
-This program is licensed under the *MIT License.*
+This program is licensed under the **MIT License.**
 
 ## Acknowledgements
 I would like to thank Dr. Angela Yu who has helped improve my understanding of Python.
